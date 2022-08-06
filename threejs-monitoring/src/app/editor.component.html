@@ -1,0 +1,29 @@
+<div id="group-editor-container">
+    <canvas class="webgl"></canvas>
+    <button (click)="addBox()" id="addBoxButton" class="menu_links, samplebtn e-control e-btn e-primary" style="position: absolute; top: 20px; left: 20px;">+ Box</button>
+    <button (click)="addSphere()" id="addSphereButton" class="menu_links, samplebtn e-control e-btn e-primary" style="position: absolute; top: 60px; left: 20px;">+ Sphere</button>
+    <button (click)="addForkliftModel()" id="addForkliftButton" class="menu_links, samplebtn e-control e-btn e-primary" style="position: absolute; top: 100px; left: 20px;">+ Forklift</button>
+    <button (click)="addPackageModel()" id="addPackageButton" class="menu_links, samplebtn e-control e-btn e-primary" style="position: absolute; top: 140px; left: 20px;">+ Package</button>
+    <button (click)="saveGroup()" id="saveGroupButton" class="menu_links, samplebtn e-control e-btn e-primary" style="position: absolute; bottom: 20px; right: 20px;">Save as Group</button>
+
+    
+    <ejs-dialog #stateConfigurationDialog width="500px" id="configurationDialog" header="Configure State Behaviour" [buttons]='dlgButtons' [isModal]=true [width]="800" [visible]="false">
+        <ng-template #content>
+
+            <!-- <ejs-checkbox></ejs-checkbox> -->
+            <ejs-dropdownlist #propertyDefinitionsDropdown id="propertyDefinitionsDropdown"></ejs-dropdownlist>
+            <div style="display: flex; flex-direction: column;">
+                <div class="stateContainer" style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;" *ngFor="let item of itemList;">
+                    <div style="display: flex; flex-direction: row; align-items: center;">
+                        <input ejs-colorpicker type="color" style="margin-right: 5px" class="stateColorPicker"/>
+                        <label>{{item.state}}</label>    
+                    </div>
+                    <ejs-checkbox label="Alarm-Worthy" class="isAlarmWorthyCheckbox"></ejs-checkbox>
+                    <div class="newValueDisplayDurationTextbox">
+                        <ejs-textbox floatLabelType="Auto" placeholder="Display Change Time in Seconds" type="number" value="10"></ejs-textbox>
+                    </div>
+                </div>
+            </div>   
+        </ng-template>
+    </ejs-dialog>
+</div>

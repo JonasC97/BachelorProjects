@@ -1,0 +1,14 @@
+<div style="margin-left: 30px" id="landing-container">
+    <div class="header-section">
+        <h1 class="title">ThreeJS Monitoring System</h1>
+    </div>
+    <div class="body-section">    
+        <ejs-dropdownlist #domainObjectTypesDropdown floatLabelType="Auto" [width]="ddWidth"
+            [dataSource]='domainObjectTypes' [fields]='domainObjectTypes' placeholder='Domain Object Types'>
+        </ejs-dropdownlist>
+    
+    
+        <button (click)="navigateToEditor()" class="menu_links, samplebtn e-control e-btn e-primary">Go to Editor</button>
+        <button (click)="navigateToMonitor()" class="menu_links, samplebtn e-control e-btn e-primary">Go to Monitor</button>
+    </div>    
+</div>

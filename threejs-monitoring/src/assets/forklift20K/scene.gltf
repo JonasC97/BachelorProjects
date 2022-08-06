@@ -1,0 +1,1236 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1816,
+      "max": [
+        1.229752540588379,
+        0.9368261098861694,
+        2.693113088607788
+      ],
+      "min": [
+        -1.3687376976013184,
+        -0.9368260502815247,
+        0.25744667649269104
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 21792,
+      "componentType": 5126,
+      "count": 1816,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 10275,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 43584,
+      "componentType": 5126,
+      "count": 1128,
+      "max": [
+        1.0732001066207886,
+        0.8500280380249023,
+        2.320260763168335
+      ],
+      "min": [
+        -1.2979645729064941,
+        -0.8500280380249023,
+        0.8056549429893494
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 57120,
+      "componentType": 5126,
+      "count": 1128,
+      "max": [
+        0.9998395442962646,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -0.9930345416069031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 41100,
+      "componentType": 5125,
+      "count": 4560,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 70656,
+      "componentType": 5126,
+      "count": 159,
+      "max": [
+        0.02982395887374878,
+        0.8431309461593628,
+        1.5707732439041138
+      ],
+      "min": [
+        -1.317673683166504,
+        -0.843130886554718,
+        0.8200892210006714
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 72564,
+      "componentType": 5126,
+      "count": 159,
+      "max": [
+        0.9983894228935242,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9951868653297424,
+        -1.0,
+        -0.9238803386688232
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 59340,
+      "componentType": 5125,
+      "count": 864,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 74472,
+      "componentType": 5126,
+      "count": 480,
+      "max": [
+        0.0039574503898620605,
+        0.4250355362892151,
+        1.5918570756912231
+      ],
+      "min": [
+        -0.754716157913208,
+        -0.4250355362892151,
+        1.028838038444519
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 80232,
+      "componentType": 5126,
+      "count": 480,
+      "max": [
+        0.9987985491752625,
+        0.9788882732391357,
+        1.0
+      ],
+      "min": [
+        -0.9992823600769043,
+        -0.9788882732391357,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 62796,
+      "componentType": 5125,
+      "count": 2844,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 85992,
+      "componentType": 5126,
+      "count": 792,
+      "max": [
+        0.5120669007301331,
+        0.16387943923473358,
+        1.6799267530441284
+      ],
+      "min": [
+        0.3167676627635956,
+        -0.16387946903705597,
+        1.40337336063385
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 95496,
+      "componentType": 5126,
+      "count": 792,
+      "max": [
+        0.9892619252204895,
+        0.9698017239570618,
+        0.9902734756469727
+      ],
+      "min": [
+        -0.9892619252204895,
+        -0.9698017239570618,
+        -0.9902734756469727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 74172,
+      "componentType": 5125,
+      "count": 4752,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 105000,
+      "componentType": 5126,
+      "count": 549,
+      "max": [
+        1.1465883255004883,
+        0.4410991966724396,
+        1.6170495748519897
+      ],
+      "min": [
+        0.32997968792915344,
+        -0.4410991966724396,
+        0.9171143770217896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 111588,
+      "componentType": 5126,
+      "count": 549,
+      "max": [
+        0.9984460473060608,
+        1.0,
+        0.999707818031311
+      ],
+      "min": [
+        -0.9833009243011475,
+        -1.0,
+        -0.9896544218063354
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 93180,
+      "componentType": 5125,
+      "count": 2040,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 118176,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        0.15188467502593994,
+        0.7077874541282654,
+        2.752715826034546
+      ],
+      "min": [
+        -0.8757573366165161,
+        -0.7077874541282654,
+        2.6931092739105225
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 118560,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        0.9238803386688232,
+        0.8755917549133301,
+        0.9238803386688232
+      ],
+      "min": [
+        -0.9238803386688232,
+        -0.8755917549133301,
+        -0.9238803386688232
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 101340,
+      "componentType": 5125,
+      "count": 180,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 118944,
+      "componentType": 5126,
+      "count": 556,
+      "max": [
+        1.2672812938690186,
+        0.5087341666221619,
+        2.8588364124298096
+      ],
+      "min": [
+        0.9104665517807007,
+        -0.5087340474128723,
+        0.09406935423612595
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 125616,
+      "componentType": 5126,
+      "count": 556,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 102060,
+      "componentType": 5125,
+      "count": 888,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 132288,
+      "componentType": 5126,
+      "count": 348,
+      "max": [
+        1.3311749696731567,
+        0.5981349945068359,
+        2.033477544784546
+      ],
+      "min": [
+        1.2676454782485962,
+        -0.5981349349021912,
+        1.2676693201065063
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 136464,
+      "componentType": 5126,
+      "count": 348,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 105612,
+      "componentType": 5125,
+      "count": 732,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 140640,
+      "componentType": 5126,
+      "count": 56,
+      "max": [
+        2.497490406036377,
+        0.449075847864151,
+        1.696938157081604
+      ],
+      "min": [
+        1.3317019939422607,
+        -0.449075847864151,
+        1.220326542854309
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 141312,
+      "componentType": 5126,
+      "count": 56,
+      "max": [
+        0.650737464427948,
+        1.0,
+        0.6856474876403809
+      ],
+      "min": [
+        -0.7318739891052246,
+        -1.0,
+        -0.7318739891052246
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 108540,
+      "componentType": 5125,
+      "count": 312,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 141984,
+      "componentType": 5126,
+      "count": 3584,
+      "max": [
+        1.3736131191253662,
+        0.8913818001747131,
+        0.8046578764915466
+      ],
+      "min": [
+        -1.5357983112335205,
+        -0.8913816809654236,
+        -0.01096773985773325
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 184992,
+      "componentType": 5126,
+      "count": 3584,
+      "max": [
+        0.9984065294265747,
+        0.999996542930603,
+        0.9984065294265747
+      ],
+      "min": [
+        -0.9984065294265747,
+        -0.999996542930603,
+        -0.9984065294265747
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 109788,
+      "componentType": 5125,
+      "count": 21096,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 228000,
+      "componentType": 5126,
+      "count": 640,
+      "max": [
+        1.1234413385391235,
+        0.8450918793678284,
+        0.5544859766960144
+      ],
+      "min": [
+        -1.3265466690063477,
+        -0.8450917601585388,
+        0.19828395545482635
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 235680,
+      "componentType": 5126,
+      "count": 640,
+      "max": [
+        0.6626667976379395,
+        0.9999198913574219,
+        0.6626667976379395
+      ],
+      "min": [
+        -0.6626667976379395,
+        -0.9999197721481323,
+        -0.6626667976379395
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 194172,
+      "componentType": 5125,
+      "count": 3432,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 243360,
+      "componentType": 5126,
+      "count": 1218,
+      "max": [
+        -1.3379740715026855,
+        0.44810813665390015,
+        0.9572902321815491
+      ],
+      "min": [
+        -1.3464903831481934,
+        -0.44810813665390015,
+        0.7578290700912476
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 257976,
+      "componentType": 5126,
+      "count": 1218,
+      "max": [
+        0.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 207900,
+      "componentType": 5125,
+      "count": 2436,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 272592,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        0.5678912997245789,
+        0.329219788312912,
+        1.4795044660568237
+      ],
+      "min": [
+        0.5209280848503113,
+        -0.329219788312912,
+        1.4164336919784546
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 275664,
+      "componentType": 5126,
+      "count": 256,
+      "max": [
+        0.9984460473060608,
+        0.905595600605011,
+        0.9673542976379395
+      ],
+      "min": [
+        -0.9985873699188232,
+        -0.905595600605011,
+        -0.8671914339065552
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 217644,
+      "componentType": 5125,
+      "count": 1320,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 278736,
+      "componentType": 5126,
+      "count": 672,
+      "max": [
+        -0.25410765409469604,
+        0.48108670115470886,
+        1.4077130556106567
+      ],
+      "min": [
+        -0.6565383672714233,
+        -0.48108670115470886,
+        1.0161138772964478
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 286800,
+      "componentType": 5126,
+      "count": 672,
+      "max": [
+        0.9862756133079529,
+        0.9999972581863403,
+        0.9996553659439087
+      ],
+      "min": [
+        -0.9861583709716797,
+        -0.9999972581863403,
+        -0.9997256994247437
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 222924,
+      "componentType": 5125,
+      "count": 4008,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "jkvarel (https://sketchfab.com/jkvarel1701)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/forklift-7bbce918be1b434ea5c25655e6eb3309",
+      "title": "Forklift"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 238956,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 294864,
+      "byteOffset": 238956,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 533820,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "main",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.698191,
+          0.682568,
+          0.0849235,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8562790748
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Console",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1424,
+          0.1424,
+          0.1424,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.968158392
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Seat_2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.137583,
+          0.137583,
+          0.137583,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9692355059
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Seat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0420274,
+          0.0420274,
+          0.0420274,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9906023877
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "SteeringWheel",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0607192,
+          0.0607192,
+          0.0607192,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9864227741
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Poles",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.467201,
+          0.467201,
+          0.467201,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8955306805
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "ForkliftRoof",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0765796,
+          0.0765796,
+          0.0765796,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9828762809
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Forklift_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.246194,
+          0.246194,
+          0.246194,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.944949348
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Forklift_2",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.0936916,
+          0.0936916,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9454728639
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Forklift_3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.358839,
+          0.358839,
+          0.358839,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9197611603
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Wheels",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0236505,
+          0.0236505,
+          0.0236505,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9947115874
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "WheelRim",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.288296,
+          0.288296,
+          0.288296,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9355350546
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Grid",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.259798,
+          0.259798,
+          0.259798,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9419074012
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Handle",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.233015,
+          0.010629,
+          0.0117284,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9870335694
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Seatrest",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.226583,
+          0.226583,
+          0.226583,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.9493345009
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Forklift_main_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Console_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Seat_2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Seat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_SteeringWheel_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Poles_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_ForkliftRoof_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Forklift_1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21
+          },
+          "indices": 23,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Forklift_2_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24
+          },
+          "indices": 26,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Forklift_3_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 28,
+            "POSITION": 27
+          },
+          "indices": 29,
+          "material": 9,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Wheels_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30
+          },
+          "indices": 32,
+          "material": 10,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_WheelRim_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 34,
+            "POSITION": 33
+          },
+          "indices": 35,
+          "material": 11,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Grid_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 37,
+            "POSITION": 36
+          },
+          "indices": 38,
+          "material": 12,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Handle_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 40,
+            "POSITION": 39
+          },
+          "indices": 41,
+          "material": 13,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Forklift_Seatrest_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 43,
+            "POSITION": 42
+          },
+          "indices": 44,
+          "material": 14,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "forklift.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Forklift"
+    },
+    {
+      "mesh": 0,
+      "name": "Forklift_main_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Forklift_Console_0"
+    },
+    {
+      "mesh": 2,
+      "name": "Forklift_Seat_2_0"
+    },
+    {
+      "mesh": 3,
+      "name": "Forklift_Seat_0"
+    },
+    {
+      "mesh": 4,
+      "name": "Forklift_SteeringWheel_0"
+    },
+    {
+      "mesh": 5,
+      "name": "Forklift_Poles_0"
+    },
+    {
+      "mesh": 6,
+      "name": "Forklift_ForkliftRoof_0"
+    },
+    {
+      "mesh": 7,
+      "name": "Forklift_Forklift_1_0"
+    },
+    {
+      "mesh": 8,
+      "name": "Forklift_Forklift_2_0"
+    },
+    {
+      "mesh": 9,
+      "name": "Forklift_Forklift_3_0"
+    },
+    {
+      "mesh": 10,
+      "name": "Forklift_Wheels_0"
+    },
+    {
+      "mesh": 11,
+      "name": "Forklift_WheelRim_0"
+    },
+    {
+      "mesh": 12,
+      "name": "Forklift_Grid_0"
+    },
+    {
+      "mesh": 13,
+      "name": "Forklift_Handle_0"
+    },
+    {
+      "mesh": 14,
+      "name": "Forklift_Seatrest_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<div id="monitoring-container">
+    <canvas id="monitoring-canvas" class="webgl"></canvas>
+
+    <div id="buttons-container" style="position: fixed; top: 0; left: 0; height: 100vh; width: 150px; gap: 30px; display: flex; flex-direction: column; justify-content: center;">
+        <button (click)="loadModel()" class="menu_links, samplebtn e-control e-btn e-primary">Load Model</button>
+        <button (click)="toggleAxesHelper()" class="menu_links, samplebtn e-control e-btn e-primary">AxesHelper</button>
+        <button (click)="silenceAllAlarmsounds()" class="menu_links, samplebtn e-control e-btn e-primary">Silence</button>
+        <button (click)="goToAlarm()" class="menu_links, samplebtn e-control e-btn e-primary">Find Alarm</button>
+        <button (click)="goToOrigin()" class="menu_links, samplebtn e-control e-btn e-primary">Origin</button>
+
+        
+        <button name={{button.text}} (click)="onAddGroupButtonClicked($event)" *ngFor="let button of addGroupButtons" class="menu_links, samplebtn e-control e-btn e-primary">+ {{button.text}}</button>
+    </div>
+    <button (click)="saveConfig()" id="saveConfigButton" class="menu_links, samplebtn e-control e-btn e-primary" style="position: absolute; bottom: 20px; right: 20px;">Save Config</button>
+
+    <ejs-contextmenu #objectContextMenu [items]="objectContextMenuItems" (select)="onObjectContextMenuSelection($event)"></ejs-contextmenu>
+
+    <ejs-dialog #domainObjectDropdownDialog width="500px" id="domainObjectDialog" header="Chose DomainObject" [buttons]='dlgButtons' [isModal]=true [width]="800" [visible]="false">
+        <ng-template #content>
+            <ejs-dropdownlist #domainObjectDropdown id="domainObjectDropdown"></ejs-dropdownlist>
+        </ng-template>
+    </ejs-dialog>
+
+</div>
